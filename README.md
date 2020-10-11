@@ -8,7 +8,7 @@
 <h3 align="center">A Passionate Programmer 🤓 from India 🇮🇳</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashpwr" alt="yashpwr"/> </p>
 
-- 📝 I regulary write articles on [http://codedecode.in/](http://codedecode.in/)
+- 📝 I regulary write articles on [https://codedecode.in/](http://codedecode.in/)
 
 - ⚡ Fun fact **I think I am funny**
 
