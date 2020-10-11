@@ -26,9 +26,7 @@
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 </p>
-<p align="center"> 
-	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashpwr&layout=compact" alt="yashpwr" />
-</p>
+
 <p align="center"> 
 	<img src="https://github-readme-stats.vercel.app/api?username=yashpwr&show_icons=true" alt="yashpwr" /> 
 </p>
