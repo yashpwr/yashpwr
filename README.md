@@ -5,9 +5,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashpwr" alt="yashpwr" /></a> </p>
 
-- 📝 I regularly write articles on [https://codedecode.in/](https://codedecode.in/)
-
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
